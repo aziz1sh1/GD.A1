@@ -1,0 +1,15 @@
+********************************************************************
+*	This programme is used to identify a green colour colonies,*
+*	and the count result, is based on the image you upload     *
+*                                                                  *
+********************************************************************
+
+Number of green objects in the petri dish: 17
+48 total colonies in image count
+
+ You upload image file to obtain result
+w
+is the name of sample
+Computational screening of green colour colonies from petri dish through python tool GD.A1.
+code written by Muhammad Aziz
+this file is save and green image is also save
